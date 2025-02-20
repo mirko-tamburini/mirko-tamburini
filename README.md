@@ -5,7 +5,7 @@ I am a Theoretical Physicist with an MSc from Università di Pisa (Italy), speci
 - Lattice Gauge Theories & Chiral Effective Lagrangian models
 - Quantum Phase Transition and Statistical Mechanics
 
-I'm currently looking for a PhD in Theoretical Physics and interested in Fundamental 
+I'm currently looking for a PhD in Theoretical Physics and I'm interested in Fundamental 
 Interactions in High-Energy Physics and computational approaches in quantum field theory.
 
 ### 🔗 Connect with me
