@@ -1,7 +1,7 @@
 ## Hi there, I'm Mirko Tamburini 👋
 
 I am a Theoretical Physicist with an MSc from Università di Pisa (Italy), specializing in:
-- Quantum Chromodynamics (QCD) & Non-Perturbative Aspects of Gauge Theories
+- Quantum Chromodynamics & Non-Perturbative Aspects of Gauge Theories
 - Lattice Gauge Theories & Chiral Effective Lagrangian models
 - Quantum Phase Transition and Statistical Mechanics
 
