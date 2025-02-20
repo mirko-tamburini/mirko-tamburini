@@ -8,7 +8,7 @@ I am a Theoretical Physicist with an MSc from Università di Pisa (Italy), speci
 I'm currently looking for a PhD in Theoretical Physics and interested in Fundamental 
 Interactions in High-Energy Physics and computational approaches in quantum field theory.
 
-🔗 Connect with me
+# 🔗 Connect with me
 📧 mirko.tamburini8@gmail.com 
 🔗 https://linkedin.com/in/mirko-tamburini-394b0b28
 
