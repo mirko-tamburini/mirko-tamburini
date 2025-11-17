@@ -5,6 +5,7 @@ I am a physicist with an MSc in Theoretical Physics from the University of Pisa 
 - Chiral Effective Lagrangians & Lattice Gauge Theories 
 - Statistical Mechanics & Phase Transitions 
 
+I'm currently working as a high-school teacher of Mathematics and Physics at Liceo Statale Eugenio Montale in Pontedera. 
 
 ### 🔗 Connect with me
 📧 mirko.tamburini8@gmail.com 
