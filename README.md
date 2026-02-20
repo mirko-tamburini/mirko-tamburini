@@ -1,6 +1,6 @@
 ## Hi there, I'm Mirko Tamburini 👋
 
-I am a physicist with an MSc in Theoretical Physics from the University of Pisa (Italy), where I specialized in:
+I'm a physicist with an MSc in Theoretical Physics from the University of Pisa (Italy), where I specialized in:
 - Quantum Chromodynamics & Non-Perturbative Aspects of Gauge Theories
 - Chiral Effective Lagrangians & Lattice Gauge Theories 
 - Statistical Mechanics & Phase Transitions 
