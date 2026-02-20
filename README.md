@@ -5,7 +5,7 @@ I am a physicist with an MSc in Theoretical Physics from the University of Pisa 
 - Chiral Effective Lagrangians & Lattice Gauge Theories 
 - Statistical Mechanics & Phase Transitions 
 
-I'm currently working as a R&D engineer at Quantavis S.r.l., focusing on cryptography and machine learning algorithms. 
+I'm currently working as a R&D engineer at Quantavis S.r.l. in Pisa, focusing on cryptography and machine learning algorithms applied to Physical Unclonable Functions (PUF).
 
 ### 🔗 Connect with me
 📧 mirko.tamburini8@gmail.com 
