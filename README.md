@@ -5,11 +5,11 @@ I am a physicist with an MSc in Theoretical Physics from the University of Pisa 
 - Chiral Effective Lagrangians & Lattice Gauge Theories 
 - Statistical Mechanics & Phase Transitions 
 
-I'm currently working as a high-school teacher of Mathematics and Physics at Liceo Statale Eugenio Montale in Pontedera. 
+I'm currently working as a R&D engineer at Quantavis S.r.l., focusing on cryptography and machine learning algorithms. 
 
 ### 🔗 Connect with me
 📧 mirko.tamburini8@gmail.com 
-🔗 https://linkedin.com/in/mirko-tamburini-394b0b28
+🔗 https://linkedin.com/in/mirko-tamburini
 
 <!--
 **mirko-tamburini/mirko-tamburini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
